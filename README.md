@@ -1,44 +1,26 @@
-  <p align="center">
-<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p align="center">
+## 👋 Things about me:
+<p align="justify">
+  Hello! I'm Bimo. I have a strong passion for <b>Programming</b> and <b>Graphic Design</b>. Currently, I'm diving deep into the worlds of <b>Godot</b> and <b>Unity</b> while exploring the fascinating architecture of <b>Data Engineering</b>.
 </p>
-<a href="https://github.com/Urielele"><img src="https://img.shields.io/github/followers/Urielele?label=Follow&amp;style=social" alt="Github"></a></p>
-<div size="20px"> Hi! My name is Bimo. Enjoy your visit to my GitHub Profile 😸
-</div>
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
-<ul>
-<li>
-<p>🏫 I’m currently studying at Universitas Sriwijaya.</p>
-</li>
-<li>
-<p>🌱 I’m currently learning Git.</p>
-</li>
-<li>
-<p>👯 I’m looking to collaborate on Project.</p>
-</li>
-<li>
-<p>💬 Ask me about Java and GDScript.</p>
-</li>
-<li>
-<p>☔ Living itself is the source of sin.</p>
-</li>
-</ul>
 
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
-<a href="https://github.com/Urielele"> <img width="32px" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/python/python.svg"> </a>
-<a href="https://github.com/Urielele"> <img width="32px" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/godot/godot.svg"> </a>
-<a href="https://github.com/Urielele"> <img width="32px" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/javascript/javascript.svg"> </a>
-<a href="https://github.com/Urielele"> <img width="32px" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/java/java.svg"> </a>
-<a href="https://github.com/Urielele"> <img width="32px" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/mysql/mysql.svg"> </a>
-<a href="https://github.com/Urielele"> <img width="32px" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/css/css.svg"> </a>
-<a href="https://github.com/Urielele"> <img width="32px" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/technology/html/html.svg"> </a>
+---
 
-<!--"https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="-->
+## 🌐 Socials:
+Always thrilled to connect—whether you're into tech talk, idea sharing, or just looking to build a friendship. Don’t hesitate to reach out through any of the following:
+<br>
 
-<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
-<a href="https://www.linkedin.com/in/bimo-abdul-aziz-9a20bb38a/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
-<a href="https://www.youtube.com/@bimomokrah"> <img width="32px" align="center" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/youtube/youtube.svg"></a> 
-<a href="https://www.instagram.com/ciqmol_/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/5e55f843379d810870d1708c2fff4fc25c3fea6d/public/logos/social%20media/instagram/instagram.svg"></a> 
-<a href="https://www.github.com/Urielele"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ciqmol_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimo-abdul-aziz-9a20bb38a/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bimomokrah)
 
+---
+
+## 💻​ Tech Stack
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-121011?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
