@@ -1,6 +1,6 @@
 ## 👋 Things about me:
 <p align="justify">
-  Hello! I'm Bimo. I have a strong passion for <b>Programming</b> and <b>Graphic Design</b>. Currently, I'm diving deep into the worlds of <b>Godot</b> and <b>Unity</b> while exploring the fascinating architecture of <b>Data Engineering</b>.
+  Hello! I'm Bimo. I have a strong passion for <b>Programming</b> and <b>Game Development</b>. Currently, I'm diving deep into the worlds of <b>Godot</b> and <b>Unity</b> while exploring the fascinating architecture of <b>Data Engineering</b>.
 </p>
 
 ---
